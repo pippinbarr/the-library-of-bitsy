@@ -1,2 +1,1 @@
-# the-library-of-bitsy
-The library of Bitsy
+# The Library of Bitsy or The Bitsy of Babel
